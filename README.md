@@ -7,5 +7,16 @@ iot文獻探討地圖
   📌 重點：  
   💡 想法：  
 
-📎 [PDF 預覽連結](https://github.com/ness0966726582/iot-LiteratureMap/raw/main/1.pdf)
+📎 [PDF 下載連結](https://github.com/ness0966726582/iot-LiteratureMap/raw/main/1.pdf)
+📎 [PDF 下載連結](https://github.com/ness0966726582/iot-LiteratureMap/raw/main/2.pdf)
+📎 [PDF 下載連結](https://github.com/ness0966726582/iot-LiteratureMap/raw/main/3.pdf)
+📎 [PDF 下載連結](https://github.com/ness0966726582/iot-LiteratureMap/raw/main/4.pdf)
+📎 [PDF 下載連結](https://github.com/ness0966726582/iot-LiteratureMap/raw/main/5.pdf)
+📎 [PDF 下載連結](https://github.com/ness0966726582/iot-LiteratureMap/raw/main/6.pdf)
+📎 [PDF 下載連結](https://github.com/ness0966726582/iot-LiteratureMap/raw/main/7.pdf)
+📎 [PDF 下載連結](https://github.com/ness0966726582/iot-LiteratureMap/raw/main/8.pdf)
+📎 [PDF 下載連結](https://github.com/ness0966726582/iot-LiteratureMap/raw/main/9.pdf)
+📎 [PDF 下載連結](https://github.com/ness0966726582/iot-LiteratureMap/raw/main/10.pdf)
+📎 [PDF 下載連結](https://github.com/ness0966726582/iot-LiteratureMap/raw/main/11.pdf)
+📎 [PDF 下載連結](https://github.com/ness0966726582/iot-LiteratureMap/raw/main/12.pdf)
 
